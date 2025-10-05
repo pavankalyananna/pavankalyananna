@@ -63,9 +63,7 @@ Here are some ideas to get you started:
   <img src="https://github-readme-stats.vercel.app/api?username=pavankalyananna&show_icons=true&theme=tokyonight" alt="pavankalyananna" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pavankalyananna&theme=tokyonight" alt="pavankalyananna" />
-</p>
+
 
 ---
 
