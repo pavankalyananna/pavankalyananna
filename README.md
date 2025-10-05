@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm [Pavan]</h1>
-<h3 align="center">A passionate Java Spring Boot Developer from [India]</h3>
+<h1 align="center">Hi 👋, I'm Pavan </h1>
+<h3 align="center">A passionate Java Spring Boot Developer from India</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />
+  <img src="https://komarev.com/ghpvc/?username=pavankalyananna&label=Profile%20views&color=0e75b6&style=flat" alt="pavankalyananna" />
 </p>
 
 ---
