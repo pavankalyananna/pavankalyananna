@@ -38,14 +38,14 @@
 
 ---
 
-## 📈 GitHub Stats (100% Working)
+## 📈 GitHub Stats 
 
 ### 🔥 Streak Stats (Super Stable)
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=pavankalyananna&theme=tokyonight&hide_border=true" />
 </p>
 
-### 📊 GitHub Summary Cards (Always Works)
+### 📊 GitHub Summary Cards 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavankalyananna&theme=tokyonight" />
 </p>
