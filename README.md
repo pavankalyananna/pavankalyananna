@@ -20,6 +20,20 @@
 ````
 
 ---
+# 🔥 GitHub Stats 
+
+## 📊 Summary Card
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavankalyananna&theme=tokyonight" />
+</p>
+
+
+## 🔥 Streak Stats
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=pavankalyananna&theme=tokyonight&hide_border=true" />
+</p>
 
 # 🚀 Tech Stack
 
@@ -43,26 +57,6 @@
 
 ---
 
-# 🔥 GitHub Stats 
-
-## 📊 Summary Card
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pavankalyananna&theme=tokyonight" />
-</p>
-
-## ⭐ Stats + Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api?username=pavankalyananna&theme=tokyonight&hide_border=true&show_icons=true" height="170" />
-  <img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=pavankalyananna&theme=tokyonight&layout=compact&hide_border=true" height="170" />
-</p>
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=pavankalyananna&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
