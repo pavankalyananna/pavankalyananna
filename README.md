@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=36&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hi+There!+👋+I'm+Pavan;Backend+Developer+%7C+Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=36&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hi+There!+👋+I'm+Pavan;Backend+Developer;Tech+Enthusiast" />
 </h1>
 
 
@@ -15,7 +15,7 @@
 🔥 Java Backend Developer  
 🚀 Building Scalable Microservices  
 🌱 Learning Docker, Kubernetes, AWS  
-💬 Ask me about Java, Spring Boot, REST APIs  
+💬 Ask me about Java, Spring Boot,Spring Security, REST APIs  
 🎯 Goal: Become a System Design Expert  
 ````
 
