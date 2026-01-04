@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Courier+Prime&size=36&pause=1000&color=39FF14&center=true&vCenter=true&width=700&lines=Hi+There!+👋+I'm+Pavan;Backend+Developer;Tech+Enthusiast" />
 </h1>
  
-
+ 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=pavankalyananna&label=Profile%20Views&color=7AFFD6&style=flat" />
 </p>
