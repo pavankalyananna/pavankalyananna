@@ -1,7 +1,7 @@
 
 <!-- ====== HERO SECTION ====== -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+There!+👋+I'm+Anna+Pavan+;Java+Backend+Engineer+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=36&pause=10&color=39FF14&center=true&vCenter=true&width=900&lines=Hi+There!+👋+I'm+Anna+Pavan+;Cloud-Native+Backend+Engineer+🚀" />
 </h1>
 
 <p align="center">
