@@ -1,6 +1,6 @@
 # Anna Pavan
 
-**Cloud / Platform Engineer | Backend Systems | Java & Spring**
+**Backend Systems | Java & Spring Boot**
 
 ---
 
@@ -13,7 +13,7 @@ I care about:
 - Clean architecture and long-term maintainability
 - Infrastructure-aware backend development
 
-Currently focused on **cloud platforms, microservices, and distributed systems**.
+Currently focused on **cloud platforms and microservices**.
 
 ---
 
@@ -25,14 +25,11 @@ Currently focused on **cloud platforms, microservices, and distributed systems**
 - Microservices design
 
 **Cloud & Platform**
-- Docker, Kubernetes (fundamentals)
 - AWS (core services & architecture concepts)
 - CI/CD pipelines (GitHub Actions)
 
 **Data**
-- MySQL, PostgreSQL
-- MongoDB
-- Redis (basics)
+- MySQL
 
 ---
 
@@ -82,19 +79,6 @@ Authentication is a **platform concern**, not just an app feature. This project 
   <img src="https://github-readme-stats.vercel.app/api?username=pavankalyananna&show_icons=true&theme=default&hide_border=true" />
 </p>
 
----
-
-## Currently Learning
-
-- Kubernetes internals (pods, services, networking)
-- Cloud system design patterns
-- Distributed system fundamentals
-
----
-
-## Contact
-
-GitHub: https://github.com/pavankalyananna  
 
 ---
 
