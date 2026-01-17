@@ -1,85 +1,128 @@
-# Anna Pavan
 
-**Backend Systems | Java & Spring Boot**
+# A Pavan Kalyan
 
----
-
-## About
-
-Backend-focused engineer building **scalable, reliable, cloud-native systems**.
-
-I care about:
-- Designing systems that scale predictably
-- Clean architecture and long-term maintainability
-- Infrastructure-aware backend development
-
-Currently focused on **cloud platforms and microservices**.
+**Java Backend Developer | Spring Boot | REST APIs**
 
 ---
 
-## Core Skills
+## About Me
 
-**Backend**
-- Java, Spring Boot, Spring Security
-- RESTful APIs, Clean Architecture
-- Microservices design
+Backend-focused **Java Developer** with hands-on industry experience at **Tata Consultancy Services (TCS)**, working on large-scale enterprise applications.
 
-**Cloud & Platform**
-- AWS (core services & architecture concepts)
-- CI/CD pipelines (GitHub Actions)
+I specialize in building **secure, reliable RESTful backend systems** using Spring Boot, with a strong foundation in:
 
-**Data**
-- MySQL
+* Core Java & OOP principles
+* Spring ecosystem (Boot, Security, JPA)
+* Relational databases and transactional systems
+
+I enjoy writing clean, maintainable code and solving problems using **data structures and algorithms**.
 
 ---
 
-## Projects Spotlight
+## Technical Skills
 
-### Banking Application (Backend System)
+### Backend & Java
 
-**Tech:** Java 17, Spring Boot, REST APIs  
-**What it demonstrates:**
-- Layered architecture (Controller → Service → Repository)
-- DTO ↔ Entity mapping
-- Transaction-style operations (deposit / withdraw)
-- Clean API design with proper HTTP semantics
+* Java (OOPS, Collections, Streams, Multithreading)
+* Spring Boot, Spring MVC
+* RESTful API development
+* Microservices basics
 
-**Why it matters:**  
-This is not a demo app — it shows how I structure backend code for **clarity, testability, and growth**.
+### Security
 
-🔗 https://github.com/pavankalyananna/Banking-App
+* Spring Security
+* JWT-based authentication
+* Role-Based Access Control (RBAC)
 
----
+### Database
 
-### Spring Security JWT Authentication (Learning Project)
+* MySQL
+* Hibernate & Spring Data JPA
+* Joins, Indexes, Transactions
+* ACID properties
 
-**Tech:** Spring Boot, Spring Security, JWT  
-**What it demonstrates:**
-- Stateless authentication
-- Token validation and request filtering
-- Role-based access control
+### Tools & DevOps
 
-**Why it matters:**  
-Authentication is a **platform concern**, not just an app feature. This project focuses on understanding it properly.
+* Git, Bitbucket
+* Maven
+* Jenkins (CI/CD exposure)
+* Nexus
 
----
+### DSA
 
-## Engineering Principles
-
-- Simplicity beats cleverness
-- Design for failure, not happy paths
-- Infrastructure constraints shape application design
-- If it’s hard to reason about, it’s already broken
+* Arrays, Linked Lists, Stacks, Queues
+* Trees, Hashing
+* 500+ problems solved on LeetCode
 
 ---
 
-## GitHub Activity
+
+
+## Projects
+
+### User Authentication System
+
+**Tech Stack:** Spring Boot, Spring Security, JWT, Hibernate, MySQL
+
+**Key Features:**
+
+* User registration and login
+* Password encryption
+* Stateless JWT authentication
+* Role-based authorization using Spring Security
+* Secure API access using annotations
+
+🔗[https://github.com/pavankalyananna/authenticationSystem](https://github.com/pavankalyananna/authenticationSystem)
+
+---
+
+### E-Wallet Transaction System
+
+**Tech Stack:** Spring Boot, Hibernate, MySQL, REST APIs
+
+**Key Features:**
+
+* Wallet recharge and fund transfer APIs
+* Transaction history management
+* Input validation and centralized error handling
+* ACID-compliant transactional operations using Spring’s `@Transactional`
+
+🔗 [https://github.com/pavankalyananna/ewallet](https://github.com/pavankalyananna/ewallet)
+
+---
+
+### Banking Application (Backend)
+
+**Tech Stack:** Java, Spring Boot, REST APIs
+
+**Highlights:**
+
+* Layered architecture (Controller → Service → Repository)
+* DTO and Entity separation
+* Transaction-style operations (deposit / withdraw)
+* Clean API design following REST principles
+
+🔗 [https://github.com/pavankalyananna/Banking-App](https://github.com/pavankalyananna/Banking-App)
+
+---
+
+## Certifications & Achievements
+
+* **Spring Boot 3 Certification – Udemy**
+* Solved **500+ DSA problems on LeetCode**
+* Participated in a **real-time hackathon** involving full-stack application development
+
+---
+
+
+## GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pavankalyananna&show_icons=true&theme=default&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pavankalyananna&show_icons=true&hide_border=true" />
 </p>
-
 
 ---
 
-*Focused on building systems that scale — not just applications that run.*
+*Focused on building secure and reliable backend systems using Java and Spring.*
+
+---
