@@ -13,8 +13,7 @@
 
 ## 👨‍💻 About Me
 
-Backend-focused **Java Developer** with real-world experience at  
-**Tata Consultancy Services (TCS)** on large-scale enterprise systems.
+Backend-focused **Java Developer** with real-world experience on large-scale enterprise systems.
 
 I build **secure, maintainable RESTful backend applications** using Spring Boot, with a strong focus on:
 - Clean architecture and layered design
