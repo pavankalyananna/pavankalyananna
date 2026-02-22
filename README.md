@@ -5,7 +5,6 @@
   <a href="https://github.com/pavankalyananna">
     <img src="https://img.shields.io/github/followers/pavankalyananna?label=GitHub&style=flat" />
   </a>
-  <img src="https://img.shields.io/badge/Experience-TCS-blue" />
   <img src="https://img.shields.io/badge/Backend-Java%20%26%20Spring-success" />
 </p>
 
